@@ -1,0 +1,161 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Nginx HTTP server boilerplate configs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-20T15:26:17Z",
+            "owner": "h5bp",
+            "repo": "server-configs-nginx",
+            "stars": 11558
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gixy - Nginx configuration static analyzer",
+          "description": "Maintained forks: gixy-ng, gixy-next",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-28T20:09:31Z",
+            "owner": "yandex",
+            "repo": "gixy",
+            "stars": 8565
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nginx Boilerplate - Configuration template and a set of handy must-have snippets",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dockerfile",
+            "last_commit": "2018-07-26T19:54:37Z",
+            "owner": "nginx-boilerplate",
+            "repo": "nginx-boilerplate",
+            "stars": 2437
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nginx common configuration - Universal config and snippets",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dockerfile",
+            "last_commit": "2023-07-17T10:04:59Z",
+            "owner": "tldr-devops",
+            "repo": "nginx-common-configuration",
+            "stars": 584
+          }
+        }
+      ],
+      "title": "Configuration"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "nginx-lua - Nginx 1.19+ with LUA support based on Alpine Linux, Amazon Linux, CentOS, Debian, Fedora and Ubuntu.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dockerfile",
+            "last_commit": "2026-08-13T00:02:23Z",
+            "owner": "fabiocicerchia",
+            "repo": "nginx-lua",
+            "stars": 225
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LSSO - Lua + Nginx SSO System with an OAuth Backend",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2017-01-02T03:17:22Z",
+            "owner": "pirogoeth",
+            "repo": "lsso",
+            "stars": 47
+          }
+        }
+      ],
+      "title": "Nginx + Lua"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "VeryNginx - Nginx distribution which provides WAF, Control Panel, and Dashboards",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2020-06-30T07:07:17Z",
+            "owner": "alexazhou",
+            "repo": "VeryNginx",
+            "stars": 5979
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Building an OpenResty events server",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2014-02-19T07:58:18Z",
+            "owner": "cagerton",
+            "repo": "dropthat",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SysAdvent 2014 - OpenResty, Nginx and Lua",
+          "description": "(Source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2015-08-20T21:34:53Z",
+            "owner": "lusis",
+            "repo": "sysadvent-2014",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "OpenResty"
+    },
+    {
+      "description": "To the extent possible under law, Frederic Cambus has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T22:45:39.073Z",
+    "original_repository": "fcambus/nginx-resources",
+    "original_repository_sha": "32beb035935b0cd851944eecd29eb8a6aa9635d4",
+    "enhanced_repository": "enhansome/enhansome-nginx-resources",
+    "enhanced_repository_description": null,
+    "title": "Awesome Nginx Resources with stars"
+  }
+}
