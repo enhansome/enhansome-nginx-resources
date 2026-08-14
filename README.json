@@ -28,7 +28,7 @@
             "last_commit": "2024-07-28T20:09:31Z",
             "owner": "yandex",
             "repo": "gixy",
-            "stars": 8565
+            "stars": 8564
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2018-07-26T19:54:37Z",
             "owner": "nginx-boilerplate",
             "repo": "nginx-boilerplate",
-            "stars": 2437
+            "stars": 2438
           }
         },
         {
@@ -73,7 +73,7 @@
           "repo_info": {
             "archived": false,
             "language": "Dockerfile",
-            "last_commit": "2026-08-13T00:02:23Z",
+            "last_commit": "2026-08-14T00:02:51Z",
             "owner": "fabiocicerchia",
             "repo": "nginx-lua",
             "stars": 225
@@ -151,7 +151,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T22:45:39.073Z",
+    "last_updated": "2026-08-14T22:26:21.111Z",
     "original_repository": "fcambus/nginx-resources",
     "original_repository_sha": "32beb035935b0cd851944eecd29eb8a6aa9635d4",
     "enhanced_repository": "enhansome/enhansome-nginx-resources",
