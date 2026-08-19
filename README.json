@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11726680,
             "language": null,
             "last_commit": "2026-06-20T15:26:17Z",
             "owner": "h5bp",
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 85012942,
             "language": "Python",
             "last_commit": "2024-07-28T20:09:31Z",
             "owner": "yandex",
             "repo": "gixy",
-            "stars": 8564
+            "stars": 8566
           }
         },
         {
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10489882,
             "language": "Dockerfile",
             "last_commit": "2018-07-26T19:54:37Z",
             "owner": "nginx-boilerplate",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 269429264,
             "language": "Dockerfile",
             "last_commit": "2023-07-17T10:04:59Z",
             "owner": "tldr-devops",
@@ -63,7 +67,7 @@
       "title": "Configuration"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -72,8 +76,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 269451950,
             "language": "Dockerfile",
-            "last_commit": "2026-08-18T00:02:12Z",
+            "last_commit": "2026-08-19T00:02:31Z",
             "owner": "fabiocicerchia",
             "repo": "nginx-lua",
             "stars": 225
@@ -86,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42562444,
             "language": "Lua",
             "last_commit": "2017-01-02T03:17:22Z",
             "owner": "pirogoeth",
@@ -97,7 +103,7 @@
       "title": "Nginx + Lua"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -106,6 +112,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48843327,
             "language": "Lua",
             "last_commit": "2020-06-30T07:07:17Z",
             "owner": "alexazhou",
@@ -120,6 +127,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14606024,
             "language": "JavaScript",
             "last_commit": "2014-02-19T07:58:18Z",
             "owner": "cagerton",
@@ -134,6 +142,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27738305,
             "language": "Lua",
             "last_commit": "2015-08-20T21:34:53Z",
             "owner": "lusis",
@@ -143,16 +152,12 @@
         }
       ],
       "title": "OpenResty"
-    },
-    {
-      "description": "To the extent possible under law, Frederic Cambus has waived all copyright and related or neighboring rights to this work.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T22:26:44.645Z",
+    "last_updated": "2026-08-19T12:43:09.716Z",
     "original_repository": "fcambus/nginx-resources",
+    "original_repository_id": 27305804,
     "original_repository_sha": "32beb035935b0cd851944eecd29eb8a6aa9635d4",
     "enhanced_repository": "enhansome/enhansome-nginx-resources",
     "enhanced_repository_description": null,

@@ -24,7 +24,7 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 ## Configuration
 
 * [Nginx HTTP server boilerplate configs](https://github.com/h5bp/server-configs-nginx) ⭐ 11,558 | 🐛 1 | 📅 2026-06-20
-* [Gixy - Nginx configuration static analyzer](https://github.com/yandex/gixy) ⭐ 8,564 | 🐛 60 | 🌐 Python | 📅 2024-07-28 - Maintained forks: [gixy-ng](https://github.com/dvershinin/gixy) ⭐ 1,182 | 🐛 0 | 🌐 Python | 📅 2026-07-20, [gixy-next](https://github.com/MegaManSec/Gixy-Next) ⭐ 187 | 🐛 19 | 🌐 Python | 📅 2026-08-15
+* [Gixy - Nginx configuration static analyzer](https://github.com/yandex/gixy) ⭐ 8,566 | 🐛 60 | 🌐 Python | 📅 2024-07-28 - Maintained forks: [gixy-ng](https://github.com/dvershinin/gixy) ⭐ 1,182 | 🐛 0 | 🌐 Python | 📅 2026-08-19, [gixy-next](https://github.com/MegaManSec/Gixy-Next) ⭐ 187 | 🐛 19 | 🌐 Python | 📅 2026-08-15
 * [Nginx Boilerplate - Configuration template and a set of handy must-have snippets](https://github.com/nginx-boilerplate/nginx-boilerplate) ⭐ 2,438 | 🐛 1 | 🌐 Dockerfile | 📅 2018-07-26
 * [Nginx common configuration - Universal config and snippets](https://github.com/tldr-devops/nginx-common-configuration) ⭐ 584 | 🐛 0 | 🌐 Dockerfile | 📅 2023-07-17
 * [Beginner's Guide](https://nginx.org/en/docs/beginners_guide.html)
@@ -68,7 +68,7 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 
 * [Telize - JSON IP and GeoIP REST API (IP Geolocation) built on Nginx and Lua](https://www.telize.com)
 * [GIN - JSON-API framework](https://gin.io/)
-* [Kong - Management Layer for Microservices and APIs](https://github.com/kong/kong) ⭐ 43,997 | 🐛 189 | 🌐 Lua | 📅 2026-08-16
+* [Kong - Management Layer for Microservices and APIs](https://github.com/kong/kong) ⭐ 44,002 | 🐛 189 | 🌐 Lua | 📅 2026-08-16
 
 ## Hacks
 
@@ -88,7 +88,7 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 
 ## Nginx + Lua
 
-* [nginx-lua - Nginx 1.19+ with LUA support based on Alpine Linux, Amazon Linux, CentOS, Debian, Fedora and Ubuntu.](https://github.com/fabiocicerchia/nginx-lua) ⭐ 225 | 🐛 10 | 🌐 Dockerfile | 📅 2026-08-18
+* [nginx-lua - Nginx 1.19+ with LUA support based on Alpine Linux, Amazon Linux, CentOS, Debian, Fedora and Ubuntu.](https://github.com/fabiocicerchia/nginx-lua) ⭐ 225 | 🐛 11 | 🌐 Dockerfile | 📅 2026-08-19
 * [LSSO - Lua + Nginx SSO System with an OAuth Backend](https://github.com/pirogoeth/lsso) ⭐ 47 | 🐛 6 | 🌐 Lua | 📅 2017-01-02
 * [Nginx, Lua, and beyond](https://agentzh.org/misc/slides/nginx-lua-and-beyond.pdf)
 * [Pushing Nginx to its limit with Lua](https://blog.cloudflare.com/pushing-nginx-to-its-limit-with-lua/)
@@ -126,7 +126,7 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 ## Tengine
 
 * [Tengine Web Server](https://tengine.taobao.org)
-* [Difference between OpenResty and Tengine](https://github.com/openresty/openresty/issues/54) ⭐ 14,000 | 🐛 332 | 🌐 C | 📅 2026-08-14
+* [Difference between OpenResty and Tengine](https://github.com/openresty/openresty/issues/54) ⭐ 14,002 | 🐛 332 | 🌐 C | 📅 2026-08-14
 
 ## Talks
 
@@ -146,4 +146,4 @@ To the extent possible under law, [Frederic Cambus](https://www.cambus.net) has 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
