@@ -15,7 +15,7 @@
             "last_commit": "2026-06-20T15:26:17Z",
             "owner": "h5bp",
             "repo": "server-configs-nginx",
-            "stars": 11558
+            "stars": 11559
           }
         },
         {
@@ -155,7 +155,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:43:09.716Z",
+    "last_updated": "2026-08-19T22:27:26.379Z",
     "original_repository": "fcambus/nginx-resources",
     "original_repository_id": 27305804,
     "original_repository_sha": "32beb035935b0cd851944eecd29eb8a6aa9635d4",
