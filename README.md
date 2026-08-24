@@ -45,8 +45,8 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 
 ## Tutorials
 
-* [NGINX and NGINX Plus Admin Guide](https://docs.nginx.com/nginx/admin-guide/)
 * [agentzh's Nginx Tutorials](https://openresty.org/download/agentzh-nginx-tutorials-en.html) ([Source](https://github.com/openresty/nginx-tutorials) ⭐ 2,868 | 🐛 5 | 🌐 Perl | 📅 2021-03-05)
+* [NGINX and NGINX Plus Admin Guide](https://docs.nginx.com/nginx/admin-guide/)
 * [Introduction to nginx.conf scripting](https://agentzh.org/misc/slides/nginx-conf-scripting/nginx-conf-scripting.html)
 * [Load Balancing with NGINX and NGINX Plus](https://www.f5.com/company/blog/nginx/load-balancing-with-nginx-plus) ([Part 2](https://www.f5.com/company/blog/nginx/load-balancing-with-nginx-plus-part-2))
 * [Optimizing Nginx for High Traffic Loads](https://blog.martinfjordvald.com/optimizing-nginx-for-high-traffic-loads/)
@@ -66,18 +66,18 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 
 ## APIs
 
+* [Kong - Management Layer for Microservices and APIs](https://github.com/kong/kong) ⭐ 44,029 | 🐛 190 | 🌐 Lua | 📅 2026-08-16
 * [Telize - JSON IP and GeoIP REST API (IP Geolocation) built on Nginx and Lua](https://www.telize.com)
 * [GIN - JSON-API framework](https://gin.io/)
-* [Kong - Management Layer for Microservices and APIs](https://github.com/kong/kong) ⭐ 44,027 | 🐛 190 | 🌐 Lua | 📅 2026-08-16
 
 ## Hacks
 
+* [Capture and delay unwanted requests](https://github.com/p0pr0ck5/lua-resty-tarpit) ⭐ 28 | 🐛 1 | 🌐 Lua | 📅 2022-10-11
 * [Nginx JSON hacks](https://web.archive.org/web/20140921162448/http://www.gabrielweinberg.com/blog/2011/07/nginx-json-hacks.html)
 * [Using Environment Variables In Nginx.conf](https://web.archive.org/web/20170712003702/https://docs.apitools.com/blog/2014/07/02/using-environment-variables-in-nginx-conf.html)
 * [Log rotation directly within Nginx configuration file](https://www.cambus.net/log-rotation-directly-within-nginx-configuration-file/)
 * [Realtime pixel tracking with Nginx, syslog-ng, and Redis](https://benwilber.github.io/nginx/redis/syslog/pixel-tracking/2013/09/13/realtime-pixel-tracking-with-nginx-syslog-ng-and-redis.html)
 * [Dynamic log formats in Nginx](https://benwilber.github.io/nginx/syslog/logging/2015/08/26/dynamic-log-formats-in-nginx.html)
-* [Capture and delay unwanted requests](https://github.com/p0pr0ck5/lua-resty-tarpit) ⭐ 28 | 🐛 1 | 🌐 Lua | 📅 2022-10-11
 * [Nginx: a caching, thumbnailing, reverse proxying image server?](https://charlesleifer.com/blog/nginx-a-caching-thumbnailing-reverse-proxying-image-server-/)
 
 ## Tips
@@ -88,7 +88,7 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 
 ## Nginx + Lua
 
-* [nginx-lua - Nginx 1.19+ with LUA support based on Alpine Linux, Amazon Linux, CentOS, Debian, Fedora and Ubuntu.](https://github.com/fabiocicerchia/nginx-lua) ⭐ 225 | 🐛 20 | 🌐 Dockerfile | 📅 2026-08-23
+* [nginx-lua - Nginx 1.19+ with LUA support based on Alpine Linux, Amazon Linux, CentOS, Debian, Fedora and Ubuntu.](https://github.com/fabiocicerchia/nginx-lua) ⭐ 225 | 🐛 17 | 🌐 Dockerfile | 📅 2026-08-24
 * [LSSO - Lua + Nginx SSO System with an OAuth Backend](https://github.com/pirogoeth/lsso) ⭐ 47 | 🐛 6 | 🌐 Lua | 📅 2017-01-02
 * [Nginx, Lua, and beyond](https://agentzh.org/misc/slides/nginx-lua-and-beyond.pdf)
 * [Pushing Nginx to its limit with Lua](https://blog.cloudflare.com/pushing-nginx-to-its-limit-with-lua/)
@@ -126,7 +126,7 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 ## Tengine
 
 * [Tengine Web Server](https://tengine.taobao.org)
-* [Difference between OpenResty and Tengine](https://github.com/openresty/openresty/issues/54) ⭐ 14,007 | 🐛 332 | 🌐 C | 📅 2026-08-14
+* [Difference between OpenResty and Tengine](https://github.com/openresty/openresty/issues/54) ⭐ 14,008 | 🐛 332 | 🌐 C | 📅 2026-08-24
 
 ## Talks
 
@@ -146,4 +146,4 @@ To the extent possible under law, [Frederic Cambus](https://www.cambus.net) has 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._

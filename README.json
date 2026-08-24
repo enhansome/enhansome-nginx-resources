@@ -71,6 +71,69 @@
       "items": [
         {
           "node_type": "item",
+          "title": "agentzh's Nginx Tutorials",
+          "description": "(Source)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2889434,
+            "language": "Perl",
+            "last_commit": "2021-03-05T03:48:12Z",
+            "owner": "openresty",
+            "repo": "nginx-tutorials",
+            "stars": 2868
+          }
+        }
+      ],
+      "title": "Tutorials"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Kong - Management Layer for Microservices and APIs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 26783295,
+            "language": "Lua",
+            "last_commit": "2026-08-16T14:44:43Z",
+            "owner": "Kong",
+            "repo": "kong",
+            "stars": 44029
+          }
+        }
+      ],
+      "title": "APIs"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Capture and delay unwanted requests",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 29088450,
+            "language": "Lua",
+            "last_commit": "2022-10-11T08:15:26Z",
+            "owner": "p0pr0ck5",
+            "repo": "lua-resty-tarpit",
+            "stars": 28
+          }
+        }
+      ],
+      "title": "Hacks"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "nginx-lua - Nginx 1.19+ with LUA support based on Alpine Linux, Amazon Linux, CentOS, Debian, Fedora and Ubuntu.",
           "description": null,
           "children": [],
@@ -78,7 +141,7 @@
             "archived": false,
             "id": 269451950,
             "language": "Dockerfile",
-            "last_commit": "2026-08-23T00:32:59Z",
+            "last_commit": "2026-08-24T06:56:06Z",
             "owner": "fabiocicerchia",
             "repo": "nginx-lua",
             "stars": 225
@@ -155,7 +218,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T22:25:19.052Z",
+    "last_updated": "2026-08-24T14:01:02.192Z",
     "original_repository": "fcambus/nginx-resources",
     "original_repository_id": 27305804,
     "original_repository_sha": "32beb035935b0cd851944eecd29eb8a6aa9635d4",
