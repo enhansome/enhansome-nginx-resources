@@ -141,7 +141,7 @@
             "archived": false,
             "id": 269451950,
             "language": "Dockerfile",
-            "last_commit": "2026-08-24T06:56:06Z",
+            "last_commit": "2026-08-24T18:49:31Z",
             "owner": "fabiocicerchia",
             "repo": "nginx-lua",
             "stars": 225
@@ -218,7 +218,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:01:02.192Z",
+    "last_updated": "2026-08-24T22:29:45.628Z",
     "original_repository": "fcambus/nginx-resources",
     "original_repository_id": 27305804,
     "original_repository_sha": "32beb035935b0cd851944eecd29eb8a6aa9635d4",

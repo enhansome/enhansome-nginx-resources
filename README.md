@@ -88,7 +88,7 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 
 ## Nginx + Lua
 
-* [nginx-lua - Nginx 1.19+ with LUA support based on Alpine Linux, Amazon Linux, CentOS, Debian, Fedora and Ubuntu.](https://github.com/fabiocicerchia/nginx-lua) ⭐ 225 | 🐛 17 | 🌐 Dockerfile | 📅 2026-08-24
+* [nginx-lua - Nginx 1.19+ with LUA support based on Alpine Linux, Amazon Linux, CentOS, Debian, Fedora and Ubuntu.](https://github.com/fabiocicerchia/nginx-lua) ⭐ 225 | 🐛 7 | 🌐 Dockerfile | 📅 2026-08-24
 * [LSSO - Lua + Nginx SSO System with an OAuth Backend](https://github.com/pirogoeth/lsso) ⭐ 47 | 🐛 6 | 🌐 Lua | 📅 2017-01-02
 * [Nginx, Lua, and beyond](https://agentzh.org/misc/slides/nginx-lua-and-beyond.pdf)
 * [Pushing Nginx to its limit with Lua](https://blog.cloudflare.com/pushing-nginx-to-its-limit-with-lua/)
