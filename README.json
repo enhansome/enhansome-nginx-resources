@@ -15,7 +15,7 @@
             "last_commit": "2026-06-20T15:26:17Z",
             "owner": "h5bp",
             "repo": "server-configs-nginx",
-            "stars": 11560
+            "stars": 11561
           }
         },
         {
@@ -102,7 +102,7 @@
             "last_commit": "2026-08-16T14:44:43Z",
             "owner": "Kong",
             "repo": "kong",
-            "stars": 44037
+            "stars": 44045
           }
         }
       ],
@@ -141,7 +141,7 @@
             "archived": false,
             "id": 269451950,
             "language": "Dockerfile",
-            "last_commit": "2026-08-25T00:02:18Z",
+            "last_commit": "2026-08-27T01:12:35Z",
             "owner": "fabiocicerchia",
             "repo": "nginx-lua",
             "stars": 225
@@ -218,7 +218,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T22:30:40.733Z",
+    "last_updated": "2026-08-27T03:00:05.073Z",
     "original_repository": "fcambus/nginx-resources",
     "original_repository_id": 27305804,
     "original_repository_sha": "32beb035935b0cd851944eecd29eb8a6aa9635d4",
