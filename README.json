@@ -16,7 +16,8 @@
             "owner": "h5bp",
             "repo": "server-configs-nginx",
             "stars": 11561
-          }
+          },
+          "first_seen": "2026-08-28T06:00:38.767Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "yandex",
             "repo": "gixy",
             "stars": 8566
-          }
+          },
+          "first_seen": "2026-08-28T06:00:38.767Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "nginx-boilerplate",
             "repo": "nginx-boilerplate",
             "stars": 2438
-          }
+          },
+          "first_seen": "2026-08-28T06:00:38.767Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "tldr-devops",
             "repo": "nginx-common-configuration",
             "stars": 584
-          }
+          },
+          "first_seen": "2026-08-28T06:00:38.767Z"
         }
       ],
       "title": "Configuration"
@@ -82,7 +86,8 @@
             "owner": "openresty",
             "repo": "nginx-tutorials",
             "stars": 2868
-          }
+          },
+          "first_seen": "2026-08-28T06:00:38.767Z"
         }
       ],
       "title": "Tutorials"
@@ -102,8 +107,9 @@
             "last_commit": "2026-08-16T14:44:43Z",
             "owner": "Kong",
             "repo": "kong",
-            "stars": 44048
-          }
+            "stars": 44052
+          },
+          "first_seen": "2026-08-28T06:00:38.767Z"
         }
       ],
       "title": "APIs"
@@ -124,7 +130,8 @@
             "owner": "p0pr0ck5",
             "repo": "lua-resty-tarpit",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T06:00:38.767Z"
         }
       ],
       "title": "Hacks"
@@ -141,11 +148,12 @@
             "archived": false,
             "id": 269451950,
             "language": "Dockerfile",
-            "last_commit": "2026-08-27T01:12:35Z",
+            "last_commit": "2026-08-28T00:02:12Z",
             "owner": "fabiocicerchia",
             "repo": "nginx-lua",
             "stars": 225
-          }
+          },
+          "first_seen": "2026-08-28T06:00:38.767Z"
         },
         {
           "node_type": "item",
@@ -160,7 +168,8 @@
             "owner": "pirogoeth",
             "repo": "lsso",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-28T06:00:38.767Z"
         }
       ],
       "title": "Nginx + Lua"
@@ -180,8 +189,9 @@
             "last_commit": "2020-06-30T07:07:17Z",
             "owner": "alexazhou",
             "repo": "VeryNginx",
-            "stars": 5979
-          }
+            "stars": 5978
+          },
+          "first_seen": "2026-08-28T06:00:38.767Z"
         },
         {
           "node_type": "item",
@@ -196,7 +206,8 @@
             "owner": "cagerton",
             "repo": "dropthat",
             "stars": 64
-          }
+          },
+          "first_seen": "2026-08-28T06:00:38.767Z"
         },
         {
           "node_type": "item",
@@ -211,14 +222,15 @@
             "owner": "lusis",
             "repo": "sysadvent-2014",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T06:00:38.767Z"
         }
       ],
       "title": "OpenResty"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:52:05.070Z",
+    "last_updated": "2026-08-28T06:00:38.767Z",
     "original_repository_info": {
       "archived": false,
       "id": 27305804,
