@@ -107,7 +107,7 @@
             "last_commit": "2026-08-16T14:44:43Z",
             "owner": "Kong",
             "repo": "kong",
-            "stars": 44052
+            "stars": 44055
           },
           "first_seen": "2026-08-28T06:00:38.767Z"
         }
@@ -148,7 +148,7 @@
             "archived": false,
             "id": 269451950,
             "language": "Dockerfile",
-            "last_commit": "2026-08-28T00:02:12Z",
+            "last_commit": "2026-08-29T00:02:17Z",
             "owner": "fabiocicerchia",
             "repo": "nginx-lua",
             "stars": 225
@@ -230,7 +230,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:00:38.767Z",
+    "last_updated": "2026-08-29T03:34:20.949Z",
     "original_repository_info": {
       "archived": false,
       "id": 27305804,
