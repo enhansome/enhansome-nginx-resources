@@ -10,12 +10,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nginx HTTP server boilerplate configs",
+            "homepage": null,
             "id": 11726680,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-06-20T15:26:17Z",
+            "open_issues": 1,
             "owner": "h5bp",
             "repo": "server-configs-nginx",
-            "stars": 11561
+            "stars": 11561,
+            "topics": [
+              "best-practices",
+              "config",
+              "h5bp",
+              "nginx",
+              "nginx-configuration",
+              "robust",
+              "standard"
+            ]
           },
           "first_seen": "2026-08-28T06:00:38.767Z"
         },
@@ -26,12 +39,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nginx configuration static analyzer",
+            "homepage": null,
             "id": 85012942,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-07-28T20:09:31Z",
+            "open_issues": 60,
             "owner": "yandex",
             "repo": "gixy",
-            "stars": 8566
+            "stars": 8566,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:00:38.767Z"
         },
@@ -42,12 +60,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome Nginx configuration template",
+            "homepage": null,
             "id": 10489882,
             "language": "Dockerfile",
+            "license": "MIT",
             "last_commit": "2018-07-26T19:54:37Z",
+            "open_issues": 1,
             "owner": "nginx-boilerplate",
             "repo": "nginx-boilerplate",
-            "stars": 2438
+            "stars": 2438,
+            "topics": [
+              "boilerplate",
+              "nginx"
+            ]
           },
           "first_seen": "2026-08-28T06:00:38.767Z"
         },
@@ -58,12 +84,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nginx common useful configuration",
+            "homepage": "https://codesandbox.io/p/github/tldr-devops/nginx-common-configuration/master?file=/.codesandbox/README.md:1,1",
             "id": 269429264,
             "language": "Dockerfile",
+            "license": "MIT",
             "last_commit": "2023-07-17T10:04:59Z",
+            "open_issues": 0,
             "owner": "tldr-devops",
             "repo": "nginx-common-configuration",
-            "stars": 584
+            "stars": 584,
+            "topics": [
+              "codesandbox",
+              "configs",
+              "nginx",
+              "nginx-configuration",
+              "sandbox"
+            ]
           },
           "first_seen": "2026-08-28T06:00:38.767Z"
         }
@@ -80,12 +117,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nginx Tutorials",
+            "homepage": "http://blog.sina.com.cn/openresty",
             "id": 2889434,
             "language": "Perl",
+            "license": null,
             "last_commit": "2021-03-05T03:48:12Z",
+            "open_issues": 5,
             "owner": "openresty",
             "repo": "nginx-tutorials",
-            "stars": 2868
+            "stars": 2868,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:00:38.767Z"
         }
@@ -102,12 +144,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🦍 The API and AI Gateway",
+            "homepage": "https://konghq.com/install/",
             "id": 26783295,
             "language": "Lua",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-16T14:44:43Z",
+            "open_issues": 191,
             "owner": "Kong",
             "repo": "kong",
-            "stars": 44055
+            "stars": 44055,
+            "topics": [
+              "ai",
+              "ai-gateway",
+              "api-gateway",
+              "api-management",
+              "apis",
+              "artificial-intelligence",
+              "cloud-native",
+              "devops",
+              "kubernetes",
+              "kubernetes-ingress",
+              "kubernetes-ingress-controller",
+              "llm-gateway",
+              "llm-ops",
+              "mcp",
+              "mcp-gateway",
+              "microservice",
+              "microservices",
+              "openai-proxy",
+              "reverse-proxy",
+              "serverless"
+            ]
           },
           "first_seen": "2026-08-28T06:00:38.767Z"
         }
@@ -124,12 +192,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenResty response time inflation",
+            "homepage": null,
             "id": 29088450,
             "language": "Lua",
+            "license": null,
             "last_commit": "2022-10-11T08:15:26Z",
+            "open_issues": 1,
             "owner": "p0pr0ck5",
             "repo": "lua-resty-tarpit",
-            "stars": 28
+            "stars": 28,
+            "topics": [
+              "brute-force",
+              "lua",
+              "nginx",
+              "openresty"
+            ]
           },
           "first_seen": "2026-08-28T06:00:38.767Z"
         }
@@ -146,12 +224,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Latest Nginx with LUA support based on AlmaLinux, Alpine Linux, Amazon Linux, Debian, Fedora, and Ubuntu.",
+            "homepage": "https://hub.docker.com/r/fabiocicerchia/nginx-lua",
             "id": 269451950,
             "language": "Dockerfile",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-29T00:02:17Z",
+            "open_issues": 7,
             "owner": "fabiocicerchia",
             "repo": "nginx-lua",
-            "stars": 225
+            "stars": 225,
+            "topics": [
+              "container",
+              "docker",
+              "lua",
+              "luajit",
+              "nginx",
+              "openresty"
+            ]
           },
           "first_seen": "2026-08-28T06:00:38.767Z"
         },
@@ -162,12 +252,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nginx SSO middleware for protecting your internets.",
+            "homepage": null,
             "id": 42562444,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2017-01-02T03:17:22Z",
+            "open_issues": 6,
             "owner": "pirogoeth",
             "repo": "lsso",
-            "stars": 47
+            "stars": 47,
+            "topics": [
+              "lua",
+              "nginx",
+              "oauth",
+              "redis",
+              "sso",
+              "two-factor",
+              "u2f"
+            ]
           },
           "first_seen": "2026-08-28T06:00:38.767Z"
         }
@@ -184,12 +287,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " A very powerful and friendly  nginx base on lua-nginx-module( openresty ) which provide WAF, Control Panel, and Dashboards. ",
+            "homepage": null,
             "id": 48843327,
             "language": "Lua",
+            "license": "LGPL-3.0",
             "last_commit": "2020-06-30T07:07:17Z",
+            "open_issues": 111,
             "owner": "alexazhou",
             "repo": "VeryNginx",
-            "stars": 5978
+            "stars": 5978,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:00:38.767Z"
         },
@@ -200,12 +308,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Client side encryption can be part of this complete breakfast. Also Lua.",
+            "homepage": null,
             "id": 14606024,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2014-02-19T07:58:18Z",
+            "open_issues": 0,
             "owner": "cagerton",
             "repo": "dropthat",
-            "stars": 64
+            "stars": 64,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:00:38.767Z"
         },
@@ -216,12 +329,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repo to go along with my sysadvent 2014 post",
+            "homepage": null,
             "id": 27738305,
             "language": "Lua",
+            "license": null,
             "last_commit": "2015-08-20T21:34:53Z",
+            "open_issues": 0,
             "owner": "lusis",
             "repo": "sysadvent-2014",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:00:38.767Z"
         }
@@ -230,15 +348,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:34:20.949Z",
+    "last_updated": "2026-08-29T04:17:44.180Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine",
+      "homepage": "http://www.cambus.net",
       "id": 27305804,
       "language": null,
+      "license": null,
       "last_commit": "2026-08-04T13:42:10Z",
+      "open_issues": 0,
       "owner": "fcambus",
       "repo": "nginx-resources",
-      "stars": 3806
+      "stars": 3806,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "list",
+        "lua",
+        "nginx",
+        "resources"
+      ]
     },
     "original_repository_sha": "32beb035935b0cd851944eecd29eb8a6aa9635d4",
     "enhanced_repository": "enhansome/enhansome-nginx-resources",
