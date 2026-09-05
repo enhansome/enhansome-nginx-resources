@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "h5bp",
             "repo": "server-configs-nginx",
-            "stars": 11561,
+            "stars": 11560,
             "topics": [
               "best-practices",
               "config",
@@ -48,7 +48,7 @@
             "open_issues": 60,
             "owner": "yandex",
             "repo": "gixy",
-            "stars": 8566,
+            "stars": 8565,
             "topics": []
           },
           "first_seen": "2026-08-28T06:00:38.767Z"
@@ -150,10 +150,10 @@
             "language": "Lua",
             "license": "Apache-2.0",
             "last_commit": "2026-09-03T06:28:18Z",
-            "open_issues": 195,
+            "open_issues": 194,
             "owner": "Kong",
             "repo": "kong",
-            "stars": 44085,
+            "stars": 44090,
             "topics": [
               "ai",
               "ai-gateway",
@@ -229,8 +229,8 @@
             "id": 269451950,
             "language": "Dockerfile",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-04T00:02:47Z",
-            "open_issues": 8,
+            "last_commit": "2026-09-05T00:02:17Z",
+            "open_issues": 9,
             "owner": "fabiocicerchia",
             "repo": "nginx-lua",
             "stars": 225,
@@ -348,7 +348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T23:48:39.088Z",
+    "last_updated": "2026-09-05T23:37:43.307Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine",
