@@ -69,7 +69,7 @@
             "open_issues": 1,
             "owner": "nginx-boilerplate",
             "repo": "nginx-boilerplate",
-            "stars": 2436,
+            "stars": 2435,
             "topics": [
               "boilerplate",
               "nginx"
@@ -153,7 +153,7 @@
             "open_issues": 194,
             "owner": "Kong",
             "repo": "kong",
-            "stars": 44105,
+            "stars": 44114,
             "topics": [
               "ai",
               "ai-gateway",
@@ -229,8 +229,8 @@
             "id": 269451950,
             "language": "Dockerfile",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-08T00:02:13Z",
-            "open_issues": 12,
+            "last_commit": "2026-09-09T00:02:18Z",
+            "open_issues": 7,
             "owner": "fabiocicerchia",
             "repo": "nginx-lua",
             "stars": 225,
@@ -348,7 +348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T23:55:34.342Z",
+    "last_updated": "2026-09-09T23:54:34.145Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine",
