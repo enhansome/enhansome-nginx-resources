@@ -66,7 +66,7 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 
 ## APIs
 
-* [Kong - Management Layer for Microservices and APIs](https://github.com/kong/kong) ⭐ 44,142 | 🐛 200 | 🌐 Lua | 📅 2026-09-07
+* [Kong - Management Layer for Microservices and APIs](https://github.com/kong/kong) ⭐ 44,148 | 🐛 200 | 🌐 Lua | 📅 2026-09-07
 * [Telize - JSON IP and GeoIP REST API (IP Geolocation) built on Nginx and Lua](https://www.telize.com)
 * [GIN - JSON-API framework](https://gin.io/)
 
@@ -126,7 +126,7 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 ## Tengine
 
 * [Tengine Web Server](https://tengine.taobao.org)
-* [Difference between OpenResty and Tengine](https://github.com/openresty/openresty/issues/54) ⭐ 14,034 | 🐛 336 | 🌐 C | 📅 2026-09-16
+* [Difference between OpenResty and Tengine](https://github.com/openresty/openresty/issues/54) ⭐ 14,035 | 🐛 336 | 🌐 C | 📅 2026-09-16
 
 ## Talks
 
