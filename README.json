@@ -150,10 +150,10 @@
             "language": "Lua",
             "license": "Apache-2.0",
             "last_commit": "2026-09-07T06:16:21Z",
-            "open_issues": 200,
+            "open_issues": 201,
             "owner": "Kong",
             "repo": "kong",
-            "stars": 44163,
+            "stars": 44168,
             "topics": [
               "ai",
               "ai-gateway",
@@ -229,7 +229,7 @@
             "id": 269451950,
             "language": "Dockerfile",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-20T12:11:39Z",
+            "last_commit": "2026-09-22T00:02:16Z",
             "open_issues": 4,
             "owner": "fabiocicerchia",
             "repo": "nginx-lua",
@@ -348,7 +348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T23:57:37.118Z",
+    "last_updated": "2026-09-22T00:38:45.342Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine",
