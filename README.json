@@ -69,7 +69,7 @@
             "open_issues": 1,
             "owner": "nginx-boilerplate",
             "repo": "nginx-boilerplate",
-            "stars": 2435,
+            "stars": 2434,
             "topics": [
               "boilerplate",
               "nginx"
@@ -126,7 +126,7 @@
             "open_issues": 5,
             "owner": "openresty",
             "repo": "nginx-tutorials",
-            "stars": 2869,
+            "stars": 2868,
             "topics": []
           },
           "first_seen": "2026-08-28T06:00:38.767Z"
@@ -149,11 +149,11 @@
             "id": 26783295,
             "language": "Lua",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-22T15:39:13Z",
-            "open_issues": 203,
+            "last_commit": "2026-09-23T13:39:08Z",
+            "open_issues": 208,
             "owner": "Kong",
             "repo": "kong",
-            "stars": 44175,
+            "stars": 44185,
             "topics": [
               "ai",
               "ai-gateway",
@@ -229,8 +229,8 @@
             "id": 269451950,
             "language": "Dockerfile",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-23T00:02:12Z",
-            "open_issues": 5,
+            "last_commit": "2026-09-24T00:02:20Z",
+            "open_issues": 6,
             "owner": "fabiocicerchia",
             "repo": "nginx-lua",
             "stars": 226,
@@ -296,7 +296,7 @@
             "open_issues": 111,
             "owner": "alexazhou",
             "repo": "VeryNginx",
-            "stars": 5979,
+            "stars": 5980,
             "topics": []
           },
           "first_seen": "2026-08-28T06:00:38.767Z"
@@ -348,7 +348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T00:07:56.025Z",
+    "last_updated": "2026-09-24T00:18:06.339Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine",
