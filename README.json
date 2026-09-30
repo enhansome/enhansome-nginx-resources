@@ -48,7 +48,7 @@
             "open_issues": 60,
             "owner": "yandex",
             "repo": "gixy",
-            "stars": 8565,
+            "stars": 8566,
             "topics": []
           },
           "first_seen": "2026-08-28T06:00:38.767Z"
@@ -149,11 +149,11 @@
             "id": 26783295,
             "language": "Lua",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-28T10:00:12Z",
-            "open_issues": 218,
+            "last_commit": "2026-09-29T04:13:49Z",
+            "open_issues": 219,
             "owner": "Kong",
             "repo": "kong",
-            "stars": 44209,
+            "stars": 44220,
             "topics": [
               "ai",
               "ai-gateway",
@@ -348,7 +348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T01:35:19.784Z",
+    "last_updated": "2026-09-30T01:09:14.445Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine",
@@ -360,7 +360,7 @@
       "open_issues": 0,
       "owner": "fcambus",
       "repo": "nginx-resources",
-      "stars": 3819,
+      "stars": 3820,
       "topics": [
         "awesome",
         "awesome-list",
