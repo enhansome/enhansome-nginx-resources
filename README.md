@@ -23,8 +23,8 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 
 ## Configuration
 
-* [Nginx HTTP server boilerplate configs](https://github.com/h5bp/server-configs-nginx) ⭐ 11,562 | 🐛 1 | 📅 2026-06-20
-* [Gixy - Nginx configuration static analyzer](https://github.com/yandex/gixy) ⭐ 8,566 | 🐛 60 | 🌐 Python | 📅 2024-07-28 - Maintained forks: [gixy-ng](https://github.com/dvershinin/gixy) ⭐ 1,185 | 🐛 1 | 🌐 Python | 📅 2026-09-29, [gixy-next](https://github.com/MegaManSec/Gixy-Next) ⭐ 193 | 🐛 3 | 🌐 Python | 📅 2026-09-13
+* [Nginx HTTP server boilerplate configs](https://github.com/h5bp/server-configs-nginx) ⭐ 11,563 | 🐛 1 | 📅 2026-06-20
+* [Gixy - Nginx configuration static analyzer](https://github.com/yandex/gixy) ⭐ 8,565 | 🐛 60 | 🌐 Python | 📅 2024-07-28 - Maintained forks: [gixy-ng](https://github.com/dvershinin/gixy) ⭐ 1,185 | 🐛 1 | 🌐 Python | 📅 2026-09-29, [gixy-next](https://github.com/MegaManSec/Gixy-Next) ⭐ 193 | 🐛 3 | 🌐 Python | 📅 2026-09-13
 * [Nginx Boilerplate - Configuration template and a set of handy must-have snippets](https://github.com/nginx-boilerplate/nginx-boilerplate) ⭐ 2,432 | 🐛 1 | 🌐 Dockerfile | 📅 2018-07-26
 * [Nginx common configuration - Universal config and snippets](https://github.com/tldr-devops/nginx-common-configuration) ⭐ 584 | 🐛 0 | 🌐 Dockerfile | 📅 2023-07-17
 * [Beginner's Guide](https://nginx.org/en/docs/beginners_guide.html)
@@ -66,7 +66,7 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 
 ## APIs
 
-* [Kong - Management Layer for Microservices and APIs](https://github.com/kong/kong) ⭐ 44,220 | 🐛 219 | 🌐 Lua | 📅 2026-09-29
+* [Kong - Management Layer for Microservices and APIs](https://github.com/kong/kong) ⭐ 44,227 | 🐛 220 | 🌐 Lua | 📅 2026-09-29
 * [Telize - JSON IP and GeoIP REST API (IP Geolocation) built on Nginx and Lua](https://www.telize.com)
 * [GIN - JSON-API framework](https://gin.io/)
 
@@ -126,7 +126,7 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 ## Tengine
 
 * [Tengine Web Server](https://tengine.taobao.org)
-* [Difference between OpenResty and Tengine](https://github.com/openresty/openresty/issues/54) ⭐ 14,055 | 🐛 336 | 🌐 C | 📅 2026-09-21
+* [Difference between OpenResty and Tengine](https://github.com/openresty/openresty/issues/54) ⭐ 14,057 | 🐛 336 | 🌐 C | 📅 2026-09-21
 
 ## Talks
 
@@ -146,4 +146,4 @@ To the extent possible under law, [Frederic Cambus](https://www.cambus.net) has 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
