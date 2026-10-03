@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Nginx HTTP server boilerplate configs",
-          "description": null,
+          "description": "h5bp/server-configs-nginx",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -56,7 +56,7 @@
         {
           "node_type": "item",
           "title": "Nginx Boilerplate - Configuration template and a set of handy must-have snippets",
-          "description": null,
+          "description": "nginx-boilerplate/nginx-boilerplate",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -80,7 +80,7 @@
         {
           "node_type": "item",
           "title": "Nginx common configuration - Universal config and snippets",
-          "description": null,
+          "description": "tldr-devops/nginx-common-configuration",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -113,7 +113,7 @@
         {
           "node_type": "item",
           "title": "agentzh's Nginx Tutorials",
-          "description": "(Source)",
+          "description": "openresty/nginx-tutorials",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -140,7 +140,7 @@
         {
           "node_type": "item",
           "title": "Kong - Management Layer for Microservices and APIs",
-          "description": null,
+          "description": "Kong/kong",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -188,7 +188,7 @@
         {
           "node_type": "item",
           "title": "Capture and delay unwanted requests",
-          "description": null,
+          "description": "p0pr0ck5/lua-resty-tarpit",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -220,7 +220,7 @@
         {
           "node_type": "item",
           "title": "nginx-lua - Nginx 1.19+ with LUA support based on Alpine Linux, Amazon Linux, CentOS, Debian, Fedora and Ubuntu.",
-          "description": null,
+          "description": "fabiocicerchia/nginx-lua",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -248,7 +248,7 @@
         {
           "node_type": "item",
           "title": "LSSO - Lua + Nginx SSO System with an OAuth Backend",
-          "description": null,
+          "description": "pirogoeth/lsso",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -283,7 +283,7 @@
         {
           "node_type": "item",
           "title": "VeryNginx - Nginx distribution which provides WAF, Control Panel, and Dashboards",
-          "description": null,
+          "description": "alexazhou/VeryNginx",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -304,7 +304,7 @@
         {
           "node_type": "item",
           "title": "Building an OpenResty events server",
-          "description": null,
+          "description": "cagerton/dropthat",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -325,7 +325,7 @@
         {
           "node_type": "item",
           "title": "SysAdvent 2014 - OpenResty, Nginx and Lua",
-          "description": "(Source)",
+          "description": "lusis/sysadvent-2014",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -348,7 +348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T00:59:33.542Z",
+    "last_updated": "2026-10-03T04:58:16.934Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine",
