@@ -153,7 +153,7 @@
             "open_issues": 222,
             "owner": "Kong",
             "repo": "kong",
-            "stars": 44246,
+            "stars": 44247,
             "topics": [
               "ai",
               "ai-gateway",
@@ -348,7 +348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T01:15:44.061Z",
+    "last_updated": "2026-10-08T01:36:58.132Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine",
@@ -360,7 +360,7 @@
       "open_issues": 0,
       "owner": "fcambus",
       "repo": "nginx-resources",
-      "stars": 3824,
+      "stars": 3825,
       "topics": [
         "awesome",
         "awesome-list",

@@ -66,7 +66,7 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 
 ## APIs
 
-* [Kong - Management Layer for Microservices and APIs](https://github.com/kong/kong) ⭐ 44,246 | 🐛 222 | 🌐 Lua | 📅 2026-10-02
+* [Kong - Management Layer for Microservices and APIs](https://github.com/kong/kong) ⭐ 44,247 | 🐛 222 | 🌐 Lua | 📅 2026-10-02
 * [Telize - JSON IP and GeoIP REST API (IP Geolocation) built on Nginx and Lua](https://www.telize.com)
 * [GIN - JSON-API framework](https://gin.io/)
 
@@ -126,7 +126,7 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 ## Tengine
 
 * [Tengine Web Server](https://tengine.taobao.org)
-* [Difference between OpenResty and Tengine](https://github.com/openresty/openresty/issues/54) ⭐ 14,063 | 🐛 336 | 🌐 C | 📅 2026-09-21
+* [Difference between OpenResty and Tengine](https://github.com/openresty/openresty/issues/54) ⭐ 14,064 | 🐛 336 | 🌐 C | 📅 2026-09-21
 
 ## Talks
 
@@ -146,4 +146,4 @@ To the extent possible under law, [Frederic Cambus](https://www.cambus.net) has 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
