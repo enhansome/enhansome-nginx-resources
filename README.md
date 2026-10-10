@@ -23,8 +23,8 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 
 ## Configuration
 
-* [Nginx HTTP server boilerplate configs](https://github.com/h5bp/server-configs-nginx) ⭐ 11,563 | 🐛 1 | 📅 2026-06-20
-* [Gixy - Nginx configuration static analyzer](https://github.com/yandex/gixy) ⭐ 8,566 | 🐛 60 | 🌐 Python | 📅 2024-07-28 - Maintained forks: [gixy-ng](https://github.com/dvershinin/gixy) ⭐ 1,186 | 🐛 1 | 🌐 Python | 📅 2026-09-29, [gixy-next](https://github.com/MegaManSec/Gixy-Next) ⭐ 193 | 🐛 3 | 🌐 Python | 📅 2026-09-13
+* [Nginx HTTP server boilerplate configs](https://github.com/h5bp/server-configs-nginx) ⭐ 11,564 | 🐛 1 | 📅 2026-06-20
+* [Gixy - Nginx configuration static analyzer](https://github.com/yandex/gixy) ⭐ 8,566 | 🐛 60 | 🌐 Python | 📅 2024-07-28 - Maintained forks: [gixy-ng](https://github.com/dvershinin/gixy) ⭐ 1,186 | 🐛 1 | 🌐 Python | 📅 2026-09-29, [gixy-next](https://github.com/MegaManSec/Gixy-Next) ⭐ 193 | 🐛 3 | 🌐 Python | 📅 2026-10-09
 * [Nginx Boilerplate - Configuration template and a set of handy must-have snippets](https://github.com/nginx-boilerplate/nginx-boilerplate) ⭐ 2,431 | 🐛 1 | 🌐 Dockerfile | 📅 2018-07-26
 * [Nginx common configuration - Universal config and snippets](https://github.com/tldr-devops/nginx-common-configuration) ⭐ 584 | 🐛 0 | 🌐 Dockerfile | 📅 2023-07-17
 * [Beginner's Guide](https://nginx.org/en/docs/beginners_guide.html)
@@ -66,7 +66,7 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 
 ## APIs
 
-* [Kong - Management Layer for Microservices and APIs](https://github.com/kong/kong) ⭐ 44,253 | 🐛 222 | 🌐 Lua | 📅 2026-10-08
+* [Kong - Management Layer for Microservices and APIs](https://github.com/kong/kong) ⭐ 44,255 | 🐛 224 | 🌐 Lua | 📅 2026-10-09
 * [Telize - JSON IP and GeoIP REST API (IP Geolocation) built on Nginx and Lua](https://www.telize.com)
 * [GIN - JSON-API framework](https://gin.io/)
 
@@ -113,7 +113,7 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 
 ## OpenResty
 
-* [VeryNginx - Nginx distribution which provides WAF, Control Panel, and Dashboards](https://github.com/alexazhou/VeryNginx) ⭐ 5,978 | 🐛 111 | 🌐 Lua | 📅 2020-06-30
+* [VeryNginx - Nginx distribution which provides WAF, Control Panel, and Dashboards](https://github.com/alexazhou/VeryNginx) ⭐ 5,977 | 🐛 111 | 🌐 Lua | 📅 2020-06-30
 * [Building an OpenResty events server](https://github.com/cagerton/dropthat/) ⭐ 64 | 🐛 0 | 🌐 JavaScript | 📅 2014-02-19
 * [SysAdvent 2014 - OpenResty, Nginx and Lua](https://sysadvent.blogspot.com/2014/12/day-22-largely-unappreciated.html) ([Source](https://github.com/lusis/sysadvent-2014) ⭐ 9 | 🐛 0 | 🌐 Lua | 📅 2015-08-20)
 * [OpenResty - Fast web app server by extending Nginx](https://openresty.org/en/)
@@ -146,4 +146,4 @@ To the extent possible under law, [Frederic Cambus](https://www.cambus.net) has 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
