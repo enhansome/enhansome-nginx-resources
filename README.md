@@ -23,10 +23,10 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 
 ## Configuration
 
-* [Nginx HTTP server boilerplate configs](https://github.com/h5bp/server-configs-nginx) ⭐ 11,562 | 🐛 1 | 📅 2026-06-20
-* [Gixy - Nginx configuration static analyzer](https://github.com/yandex/gixy) ⭐ 8,565 | 🐛 60 | 🌐 Python | 📅 2024-07-28 - Maintained forks: [gixy-ng](https://github.com/dvershinin/gixy) ⭐ 1,186 | 🐛 1 | 🌐 Python | 📅 2026-09-29, [gixy-next](https://github.com/MegaManSec/Gixy-Next) ⭐ 193 | 🐛 3 | 🌐 Python | 📅 2026-10-09
-* [Nginx Boilerplate - Configuration template and a set of handy must-have snippets](https://github.com/nginx-boilerplate/nginx-boilerplate) ⭐ 2,431 | 🐛 1 | 🌐 Dockerfile | 📅 2018-07-26
-* [Nginx common configuration - Universal config and snippets](https://github.com/tldr-devops/nginx-common-configuration) ⭐ 584 | 🐛 0 | 🌐 Dockerfile | 📅 2023-07-17
+* [Nginx HTTP server boilerplate configs](https://github.com/h5bp/server-configs-nginx) ⭐ 11,560 | 🐛 1 | 📅 2026-06-20
+* [Gixy - Nginx configuration static analyzer](https://github.com/yandex/gixy) ⭐ 8,564 | 🐛 60 | 🌐 Python | 📅 2024-07-28 - Maintained forks: [gixy-ng](https://github.com/dvershinin/gixy) ⭐ 1,185 | 🐛 1 | 🌐 Python | 📅 2026-09-29, [gixy-next](https://github.com/MegaManSec/Gixy-Next) ⭐ 193 | 🐛 3 | 🌐 Python | 📅 2026-10-09
+* [Nginx Boilerplate - Configuration template and a set of handy must-have snippets](https://github.com/nginx-boilerplate/nginx-boilerplate) ⭐ 2,429 | 🐛 1 | 🌐 Dockerfile | 📅 2018-07-26
+* [Nginx common configuration - Universal config and snippets](https://github.com/tldr-devops/nginx-common-configuration) ⭐ 583 | 🐛 0 | 🌐 Dockerfile | 📅 2023-07-17
 * [Beginner's Guide](https://nginx.org/en/docs/beginners_guide.html)
 * [Alphabetical index of variables](https://nginx.org/en/docs/varindex.html)
 * [Useful Rewrites for Nginx](https://www.engineyard.com/blog/useful-rewrites-for-nginx/)
@@ -45,7 +45,7 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 
 ## Tutorials
 
-* [agentzh's Nginx Tutorials](https://openresty.org/download/agentzh-nginx-tutorials-en.html) ([Source](https://github.com/openresty/nginx-tutorials) ⭐ 2,868 | 🐛 5 | 🌐 Perl | 📅 2021-03-05)
+* [agentzh's Nginx Tutorials](https://openresty.org/download/agentzh-nginx-tutorials-en.html) ([Source](https://github.com/openresty/nginx-tutorials) ⭐ 2,867 | 🐛 5 | 🌐 Perl | 📅 2021-03-05)
 * [NGINX and NGINX Plus Admin Guide](https://docs.nginx.com/nginx/admin-guide/)
 * [Introduction to nginx.conf scripting](https://agentzh.org/misc/slides/nginx-conf-scripting/nginx-conf-scripting.html)
 * [Load Balancing with NGINX and NGINX Plus](https://www.f5.com/company/blog/nginx/load-balancing-with-nginx-plus) ([Part 2](https://www.f5.com/company/blog/nginx/load-balancing-with-nginx-plus-part-2))
@@ -66,7 +66,7 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 
 ## APIs
 
-* [Kong - Management Layer for Microservices and APIs](https://github.com/kong/kong) ⭐ 44,259 | 🐛 220 | 🌐 Lua | 📅 2026-10-12
+* [Kong - Management Layer for Microservices and APIs](https://github.com/kong/kong) ⭐ 44,264 | 🐛 222 | 🌐 Lua | 📅 2026-10-13
 * [Telize - JSON IP and GeoIP REST API (IP Geolocation) built on Nginx and Lua](https://www.telize.com)
 * [GIN - JSON-API framework](https://gin.io/)
 
@@ -126,7 +126,7 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 ## Tengine
 
 * [Tengine Web Server](https://tengine.taobao.org)
-* [Difference between OpenResty and Tengine](https://github.com/openresty/openresty/issues/54) ⭐ 14,067 | 🐛 336 | 🌐 C | 📅 2026-09-21
+* [Difference between OpenResty and Tengine](https://github.com/openresty/openresty/issues/54) ⭐ 14,069 | 🐛 336 | 🌐 C | 📅 2026-09-21
 
 ## Talks
 
@@ -146,4 +146,4 @@ To the extent possible under law, [Frederic Cambus](https://www.cambus.net) has 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._

@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "h5bp",
             "repo": "server-configs-nginx",
-            "stars": 11562,
+            "stars": 11560,
             "topics": [
               "best-practices",
               "config",
@@ -48,7 +48,7 @@
             "open_issues": 60,
             "owner": "yandex",
             "repo": "gixy",
-            "stars": 8565,
+            "stars": 8564,
             "topics": []
           },
           "first_seen": "2026-08-28T06:00:38.767Z"
@@ -69,7 +69,7 @@
             "open_issues": 1,
             "owner": "nginx-boilerplate",
             "repo": "nginx-boilerplate",
-            "stars": 2431,
+            "stars": 2429,
             "topics": [
               "boilerplate",
               "nginx"
@@ -93,7 +93,7 @@
             "open_issues": 0,
             "owner": "tldr-devops",
             "repo": "nginx-common-configuration",
-            "stars": 584,
+            "stars": 583,
             "topics": [
               "codesandbox",
               "configs",
@@ -126,7 +126,7 @@
             "open_issues": 5,
             "owner": "openresty",
             "repo": "nginx-tutorials",
-            "stars": 2868,
+            "stars": 2867,
             "topics": []
           },
           "first_seen": "2026-08-28T06:00:38.767Z"
@@ -149,11 +149,11 @@
             "id": 26783295,
             "language": "Lua",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-12T10:10:37Z",
-            "open_issues": 220,
+            "last_commit": "2026-10-13T16:04:22Z",
+            "open_issues": 222,
             "owner": "Kong",
             "repo": "kong",
-            "stars": 44259,
+            "stars": 44264,
             "topics": [
               "ai",
               "ai-gateway",
@@ -348,7 +348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T02:54:21.105Z",
+    "last_updated": "2026-10-14T00:57:29.088Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine",
