@@ -23,9 +23,9 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 
 ## Configuration
 
-* [Nginx HTTP server boilerplate configs](https://github.com/h5bp/server-configs-nginx) ⭐ 11,560 | 🐛 1 | 📅 2026-06-20
-* [Gixy - Nginx configuration static analyzer](https://github.com/yandex/gixy) ⭐ 8,564 | 🐛 60 | 🌐 Python | 📅 2024-07-28 - Maintained forks: [gixy-ng](https://github.com/dvershinin/gixy) ⭐ 1,185 | 🐛 1 | 🌐 Python | 📅 2026-09-29, [gixy-next](https://github.com/MegaManSec/Gixy-Next) ⭐ 193 | 🐛 3 | 🌐 Python | 📅 2026-10-09
-* [Nginx Boilerplate - Configuration template and a set of handy must-have snippets](https://github.com/nginx-boilerplate/nginx-boilerplate) ⭐ 2,429 | 🐛 1 | 🌐 Dockerfile | 📅 2018-07-26
+* [Nginx HTTP server boilerplate configs](https://github.com/h5bp/server-configs-nginx) ⭐ 11,559 | 🐛 1 | 📅 2026-06-20
+* [Gixy - Nginx configuration static analyzer](https://github.com/yandex/gixy) ⭐ 8,565 | 🐛 60 | 🌐 Python | 📅 2024-07-28 - Maintained forks: [gixy-ng](https://github.com/dvershinin/gixy) ⭐ 1,185 | 🐛 1 | 🌐 Python | 📅 2026-09-29, [gixy-next](https://github.com/MegaManSec/Gixy-Next) ⭐ 193 | 🐛 3 | 🌐 Python | 📅 2026-10-09
+* [Nginx Boilerplate - Configuration template and a set of handy must-have snippets](https://github.com/nginx-boilerplate/nginx-boilerplate) ⭐ 2,428 | 🐛 1 | 🌐 Dockerfile | 📅 2018-07-26
 * [Nginx common configuration - Universal config and snippets](https://github.com/tldr-devops/nginx-common-configuration) ⭐ 583 | 🐛 0 | 🌐 Dockerfile | 📅 2023-07-17
 * [Beginner's Guide](https://nginx.org/en/docs/beginners_guide.html)
 * [Alphabetical index of variables](https://nginx.org/en/docs/varindex.html)
@@ -66,7 +66,7 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 
 ## APIs
 
-* [Kong - Management Layer for Microservices and APIs](https://github.com/kong/kong) ⭐ 44,264 | 🐛 222 | 🌐 Lua | 📅 2026-10-13
+* [Kong - Management Layer for Microservices and APIs](https://github.com/kong/kong) ⭐ 44,264 | 🐛 221 | 🌐 Lua | 📅 2026-10-14
 * [Telize - JSON IP and GeoIP REST API (IP Geolocation) built on Nginx and Lua](https://www.telize.com)
 * [GIN - JSON-API framework](https://gin.io/)
 
@@ -126,7 +126,7 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 ## Tengine
 
 * [Tengine Web Server](https://tengine.taobao.org)
-* [Difference between OpenResty and Tengine](https://github.com/openresty/openresty/issues/54) ⭐ 14,069 | 🐛 336 | 🌐 C | 📅 2026-09-21
+* [Difference between OpenResty and Tengine](https://github.com/openresty/openresty/issues/54) ⭐ 14,073 | 🐛 336 | 🌐 C | 📅 2026-09-21
 
 ## Talks
 
@@ -146,4 +146,4 @@ To the extent possible under law, [Frederic Cambus](https://www.cambus.net) has 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
