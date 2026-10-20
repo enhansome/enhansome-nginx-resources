@@ -149,11 +149,11 @@
             "id": 26783295,
             "language": "Lua",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-14T02:34:58Z",
-            "open_issues": 222,
+            "last_commit": "2026-10-19T02:45:09Z",
+            "open_issues": 220,
             "owner": "Kong",
             "repo": "kong",
-            "stars": 44278,
+            "stars": 44283,
             "topics": [
               "ai",
               "ai-gateway",
@@ -348,7 +348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T23:59:11.518Z",
+    "last_updated": "2026-10-20T00:57:33.914Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine",
