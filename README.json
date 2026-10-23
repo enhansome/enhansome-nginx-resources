@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "h5bp",
             "repo": "server-configs-nginx",
-            "stars": 11559,
+            "stars": 11560,
             "topics": [
               "best-practices",
               "config",
@@ -153,7 +153,7 @@
             "open_issues": 220,
             "owner": "Kong",
             "repo": "kong",
-            "stars": 44288,
+            "stars": 44293,
             "topics": [
               "ai",
               "ai-gateway",
@@ -233,7 +233,7 @@
             "open_issues": 7,
             "owner": "fabiocicerchia",
             "repo": "nginx-lua",
-            "stars": 227,
+            "stars": 228,
             "topics": [
               "container",
               "docker",
@@ -348,7 +348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T00:28:58.841Z",
+    "last_updated": "2026-10-23T00:27:23.358Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine",
