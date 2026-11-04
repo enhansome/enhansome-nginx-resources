@@ -229,8 +229,8 @@
             "id": 269451950,
             "language": "Dockerfile",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-03T00:02:17Z",
-            "open_issues": 14,
+            "last_commit": "2026-11-04T00:02:18Z",
+            "open_issues": 15,
             "owner": "fabiocicerchia",
             "repo": "nginx-lua",
             "stars": 228,
@@ -348,7 +348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T03:21:49.181Z",
+    "last_updated": "2026-11-04T01:59:44.975Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine",
@@ -360,7 +360,7 @@
       "open_issues": 0,
       "owner": "fcambus",
       "repo": "nginx-resources",
-      "stars": 3848,
+      "stars": 3849,
       "topics": [
         "awesome",
         "awesome-list",
