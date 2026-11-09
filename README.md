@@ -23,8 +23,8 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 
 ## Configuration
 
-* [Nginx HTTP server boilerplate configs](https://github.com/h5bp/server-configs-nginx) ⭐ 11,560 | 🐛 1 | 📅 2026-06-20
-* [Gixy - Nginx configuration static analyzer](https://github.com/yandex/gixy) ⭐ 8,562 | 🐛 60 | 🌐 Python | 📅 2024-07-28 - Maintained forks: [gixy-ng](https://github.com/dvershinin/gixy) ⭐ 1,191 | 🐛 0 | 🌐 Python | 📅 2026-11-07, [gixy-next](https://github.com/MegaManSec/Gixy-Next) ⭐ 195 | 🐛 2 | 🌐 Python | 📅 2026-10-31
+* [Nginx HTTP server boilerplate configs](https://github.com/h5bp/server-configs-nginx) ⭐ 11,559 | 🐛 1 | 📅 2026-06-20
+* [Gixy - Nginx configuration static analyzer](https://github.com/yandex/gixy) ⭐ 8,562 | 🐛 60 | 🌐 Python | 📅 2024-07-28 - Maintained forks: [gixy-ng](https://github.com/dvershinin/gixy) ⭐ 1,191 | 🐛 0 | 🌐 Python | 📅 2026-11-07, [gixy-next](https://github.com/MegaManSec/Gixy-Next) ⭐ 195 | 🐛 4 | 🌐 Python | 📅 2026-11-09
 * [Nginx Boilerplate - Configuration template and a set of handy must-have snippets](https://github.com/nginx-boilerplate/nginx-boilerplate) ⭐ 2,429 | 🐛 1 | 🌐 Dockerfile | 📅 2018-07-26
 * [Nginx common configuration - Universal config and snippets](https://github.com/tldr-devops/nginx-common-configuration) ⭐ 584 | 🐛 0 | 🌐 Dockerfile | 📅 2023-07-17
 * [Beginner's Guide](https://nginx.org/en/docs/beginners_guide.html)
@@ -45,7 +45,7 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 
 ## Tutorials
 
-* [agentzh's Nginx Tutorials](https://openresty.org/download/agentzh-nginx-tutorials-en.html) ([Source](https://github.com/openresty/nginx-tutorials) ⭐ 2,866 | 🐛 5 | 🌐 Perl | 📅 2021-03-05)
+* [agentzh's Nginx Tutorials](https://openresty.org/download/agentzh-nginx-tutorials-en.html) ([Source](https://github.com/openresty/nginx-tutorials) ⭐ 2,863 | 🐛 5 | 🌐 Perl | 📅 2021-03-05)
 * [NGINX and NGINX Plus Admin Guide](https://docs.nginx.com/nginx/admin-guide/)
 * [Introduction to nginx.conf scripting](https://agentzh.org/misc/slides/nginx-conf-scripting/nginx-conf-scripting.html)
 * [Load Balancing with NGINX and NGINX Plus](https://www.f5.com/company/blog/nginx/load-balancing-with-nginx-plus) ([Part 2](https://www.f5.com/company/blog/nginx/load-balancing-with-nginx-plus-part-2))
@@ -66,7 +66,7 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 
 ## APIs
 
-* [Kong - Management Layer for Microservices and APIs](https://github.com/kong/kong) ⭐ 44,364 | 🐛 228 | 🌐 Lua | 📅 2026-10-19
+* [Kong - Management Layer for Microservices and APIs](https://github.com/kong/kong) ⭐ 44,369 | 🐛 228 | 🌐 Lua | 📅 2026-10-19
 * [Telize - JSON IP and GeoIP REST API (IP Geolocation) built on Nginx and Lua](https://www.telize.com)
 * [GIN - JSON-API framework](https://gin.io/)
 
@@ -88,7 +88,7 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 
 ## Nginx + Lua
 
-* [nginx-lua - Nginx 1.19+ with LUA support based on Alpine Linux, Amazon Linux, CentOS, Debian, Fedora and Ubuntu.](https://github.com/fabiocicerchia/nginx-lua) ⭐ 228 | 🐛 18 | 🌐 Dockerfile | 📅 2026-11-08
+* [nginx-lua - Nginx 1.19+ with LUA support based on Alpine Linux, Amazon Linux, CentOS, Debian, Fedora and Ubuntu.](https://github.com/fabiocicerchia/nginx-lua) ⭐ 228 | 🐛 19 | 🌐 Dockerfile | 📅 2026-11-09
 * [LSSO - Lua + Nginx SSO System with an OAuth Backend](https://github.com/pirogoeth/lsso) ⭐ 47 | 🐛 6 | 🌐 Lua | 📅 2017-01-02
 * [Nginx, Lua, and beyond](https://agentzh.org/misc/slides/nginx-lua-and-beyond.pdf)
 * [Pushing Nginx to its limit with Lua](https://blog.cloudflare.com/pushing-nginx-to-its-limit-with-lua/)
@@ -126,7 +126,7 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 ## Tengine
 
 * [Tengine Web Server](https://tengine.taobao.org)
-* [Difference between OpenResty and Tengine](https://github.com/openresty/openresty/issues/54) ⭐ 14,117 | 🐛 318 | 🌐 C | 📅 2026-11-07
+* [Difference between OpenResty and Tengine](https://github.com/openresty/openresty/issues/54) ⭐ 14,122 | 🐛 318 | 🌐 C | 📅 2026-11-07
 
 ## Talks
 
@@ -146,4 +146,4 @@ To the extent possible under law, [Frederic Cambus](https://www.cambus.net) has 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
