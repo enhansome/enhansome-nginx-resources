@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "h5bp",
             "repo": "server-configs-nginx",
-            "stars": 11559,
+            "stars": 11561,
             "topics": [
               "best-practices",
               "config",
@@ -48,7 +48,7 @@
             "open_issues": 60,
             "owner": "yandex",
             "repo": "gixy",
-            "stars": 8562,
+            "stars": 8563,
             "topics": []
           },
           "first_seen": "2026-08-28T06:00:38.767Z"
@@ -153,7 +153,7 @@
             "open_issues": 228,
             "owner": "Kong",
             "repo": "kong",
-            "stars": 44369,
+            "stars": 44377,
             "topics": [
               "ai",
               "ai-gateway",
@@ -229,8 +229,8 @@
             "id": 269451950,
             "language": "Dockerfile",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-10T00:02:21Z",
-            "open_issues": 20,
+            "last_commit": "2026-11-11T00:02:18Z",
+            "open_issues": 21,
             "owner": "fabiocicerchia",
             "repo": "nginx-lua",
             "stars": 228,
@@ -348,7 +348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T03:59:10.482Z",
+    "last_updated": "2026-11-11T01:44:48.423Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine",
@@ -360,7 +360,7 @@
       "open_issues": 0,
       "owner": "fcambus",
       "repo": "nginx-resources",
-      "stars": 3853,
+      "stars": 3855,
       "topics": [
         "awesome",
         "awesome-list",
