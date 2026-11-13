@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "h5bp",
             "repo": "server-configs-nginx",
-            "stars": 11561,
+            "stars": 11560,
             "topics": [
               "best-practices",
               "config",
@@ -48,7 +48,7 @@
             "open_issues": 60,
             "owner": "yandex",
             "repo": "gixy",
-            "stars": 8563,
+            "stars": 8561,
             "topics": []
           },
           "first_seen": "2026-08-28T06:00:38.767Z"
@@ -69,7 +69,7 @@
             "open_issues": 1,
             "owner": "nginx-boilerplate",
             "repo": "nginx-boilerplate",
-            "stars": 2429,
+            "stars": 2428,
             "topics": [
               "boilerplate",
               "nginx"
@@ -150,10 +150,10 @@
             "language": "Lua",
             "license": "Apache-2.0",
             "last_commit": "2026-10-19T02:45:09Z",
-            "open_issues": 228,
+            "open_issues": 229,
             "owner": "Kong",
             "repo": "kong",
-            "stars": 44375,
+            "stars": 44377,
             "topics": [
               "ai",
               "ai-gateway",
@@ -229,8 +229,8 @@
             "id": 269451950,
             "language": "Dockerfile",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-12T00:02:31Z",
-            "open_issues": 22,
+            "last_commit": "2026-11-13T00:02:19Z",
+            "open_issues": 23,
             "owner": "fabiocicerchia",
             "repo": "nginx-lua",
             "stars": 228,
@@ -348,7 +348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T02:45:00.669Z",
+    "last_updated": "2026-11-13T02:28:02.616Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine",
@@ -360,7 +360,7 @@
       "open_issues": 0,
       "owner": "fcambus",
       "repo": "nginx-resources",
-      "stars": 3854,
+      "stars": 3856,
       "topics": [
         "awesome",
         "awesome-list",
